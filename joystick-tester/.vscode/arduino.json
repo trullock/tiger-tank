@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:nano",
+    "path": "C:/Program Files (x86)/Arduino",
+    "sketch": "tank.ino",
+    "port": "COM4",
+    "output": "build",
+    "configuration": "cpu=atmega328old"
+}
